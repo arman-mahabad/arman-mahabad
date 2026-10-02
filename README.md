@@ -1,16 +1,43 @@
-## Hi there 👋
+# Arman Mahabad
 
-<!--
-**arman-mahabad/arman-mahabad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Product Builder · AI & Software · Photography
 
-Here are some ideas to get you started:
+I build digital products that combine software, AI, design and real-world problem solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Work
+
+### Meds.krd
+Medical education platform for medical students in Kurdistan.
+
+**Status:** Live  
+**Role:** Founder · Product · Development · AI-assisted engineering
+
+[Visit Meds.krd →]
+
+---
+
+### SwapLane
+Shift-swapping workflow prototype designed around real workplace operations.
+
+**Status:** Prototype  
+**Role:** Product · UX · Development · AI-assisted engineering
+
+[View case study →]
+
+---
+
+### E-commerce Platform
+A custom online store built for a local phone-parts business.
+
+**Status:** In development
+
+[View project →]
+
+## What I Work With
+
+AI-assisted development · Product design · Web applications · Automation ·
+LLM workflows · UX · Photography
+
+## Currently Exploring
+
+AI engineering · software architecture · automation · technical product development
