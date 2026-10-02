@@ -1,43 +1,143 @@
-# Arman Mahabad
+<div align="center">
+
+# ARMAN MAHABAD
 
 ### Product Builder · AI & Software · Photography
 
-I build digital products that combine software, AI, design and real-world problem solving.
+I build digital products from idea to something people can actually use.
 
-## Featured Work
+<br/>
 
-### Meds.krd
-Medical education platform for medical students in Kurdistan.
+<a href="https://www.meds.krd">
+  <img src="https://img.shields.io/badge/Meds.krd-Visit%20project-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Meds.krd"/>
+</a>
+&nbsp;
+<a href="https://arman.photography">
+  <img src="https://img.shields.io/badge/Photography-Arman%20Photography-111111?style=for-the-badge&logo=camera&logoColor=white" alt="Photography"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-**Status:** Live  
-**Role:** Founder · Product · Development · AI-assisted engineering
-
-[Visit Meds.krd →]
-
----
-
-### SwapLane
-Shift-swapping workflow prototype designed around real workplace operations.
-
-**Status:** Prototype  
-**Role:** Product · UX · Development · AI-assisted engineering
-
-[View case study →]
+</div>
 
 ---
 
-### E-commerce Platform
-A custom online store built for a local phone-parts business.
+## I BUILD THINGS.
+
+I am interested in the space where **software, AI, product thinking, design, and real-world problems** meet.
+
+I do not collect technologies for the sake of collecting them.
+
+I use whatever is necessary to turn an idea into a working product.
+
+That includes designing the experience, shaping the system, working with AI-assisted development, iterating on the implementation, and thinking about what happens after the first version is built.
+
+> **The work is the point. Everything below is proof.**
+
+---
+
+## SELECTED WORK
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 Meds.krd
+
+A medical education platform built around how medical students actually study.
+
+**Focus**
+
+- Product design
+- Web application development
+- Study workflows
+- AI-assisted engineering
+- UX
+- Systems thinking
+
+**Status:** Live / evolving
+
+[Explore Meds.krd →](https://www.meds.krd)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔄 SwapLane
+
+A workflow prototype designed to make employee shift swapping simpler, faster, and easier to manage.
+
+**Focus**
+
+- Product thinking
+- Workflow design
+- Interface design
+- AI-assisted development
+- Real-world operational problems
+
+**Status:** Prototype
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 E-commerce Platform
+
+A custom online store being built for a local phone-parts business.
+
+Designed around a real business rather than a tutorial project.
+
+**Focus**
+
+- Product architecture
+- E-commerce UX
+- Customer journey
+- Web development
+- Brand presentation
 
 **Status:** In development
 
-[View project →]
+</td>
 
-## What I Work With
+<td width="50%" valign="top">
 
-AI-assisted development · Product design · Web applications · Automation ·
-LLM workflows · UX · Photography
+### 📷 Photography
 
-## Currently Exploring
+Photography is another part of how I work: observation, composition, lighting, storytelling, and visual communication.
 
-AI engineering · software architecture · automation · technical product development
+[View photography →](https://arman.photography)
+
+</td>
+</tr>
+</table>
+
+---
+
+## HOW I WORK
+
+I use **AI-assisted development** extensively.
+
+But I don't treat AI as a substitute for understanding the product.
+
+I use it as part of the development process while I remain responsible for the decisions:
+
+```text
+Problem
+   ↓
+Understand
+   ↓
+Design
+   ↓
+Build
+   ↓
+Test
+   ↓
+Refine
+   ↓
+Ship
+   ↓
+Learn
