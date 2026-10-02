@@ -119,25 +119,24 @@ Photography is another part of how I work: observation, composition, lighting, s
 
 ## HOW I WORK
 
-I use **AI-assisted development** extensively.
+I approach projects from **problem → product → system → execution**.
 
-But I don't treat AI as a substitute for understanding the product.
+I care about understanding what needs to be built before deciding how it should be built.
 
-I use it as part of the development process while I remain responsible for the decisions:
+My work combines:
 
 ```text
-Problem
-   ↓
-Understand
-   ↓
-Design
-   ↓
-Build
-   ↓
-Test
-   ↓
-Refine
-   ↓
-Ship
-   ↓
+Product Thinking
+      ↓
+UX / Interface Design
+      ↓
+System Design
+      ↓
+Development
+      ↓
+Testing
+      ↓
+Iteration
+      ↓
+Launch
 Learn
