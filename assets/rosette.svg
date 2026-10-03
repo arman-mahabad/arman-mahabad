@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-20 -20 40 40" width="40" height="40" role="img" aria-label="End">
+  <g fill="#C42A2F">
+      <mask id="hole"><rect x="-19" y="-19" width="38" height="38" fill="#fff"/><circle r="2.89" fill="#000"/></mask>
+      <g mask="url(#hole)"><path d="M0,0 A10.2,10.2 0 0 1 0,-17 A10.2,10.2 0 0 1 0,0Z" transform="rotate(0)"/><path d="M0,0 A10.2,10.2 0 0 1 0,-17 A10.2,10.2 0 0 1 0,0Z" transform="rotate(45)"/><path d="M0,0 A10.2,10.2 0 0 1 0,-17 A10.2,10.2 0 0 1 0,0Z" transform="rotate(90)"/><path d="M0,0 A10.2,10.2 0 0 1 0,-17 A10.2,10.2 0 0 1 0,0Z" transform="rotate(135)"/><path d="M0,0 A10.2,10.2 0 0 1 0,-17 A10.2,10.2 0 0 1 0,0Z" transform="rotate(180)"/><path d="M0,0 A10.2,10.2 0 0 1 0,-17 A10.2,10.2 0 0 1 0,0Z" transform="rotate(225)"/><path d="M0,0 A10.2,10.2 0 0 1 0,-17 A10.2,10.2 0 0 1 0,0Z" transform="rotate(270)"/><path d="M0,0 A10.2,10.2 0 0 1 0,-17 A10.2,10.2 0 0 1 0,0Z" transform="rotate(315)"/><circle r="5.1"/></g>
+  </g>
+</svg>
