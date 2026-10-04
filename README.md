@@ -22,7 +22,7 @@ I design and build products, and the AI systems behind them. Then I put them liv
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-## Made by Arman
+## Made by Arman 
 
 Everything I make carries a small signature, "Made by Arman ↗". All of them lead back to [byarman.site](https://byarman.site).
 
