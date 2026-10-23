@@ -6,7 +6,7 @@
   </picture>
 </a>
 
-I'm a medical student in Slemani, Kurdistan, and I build products with AI.
+I build products with AI, in Slemani, Kurdistan.
 
 ### [Meds.krd](https://www.meds.krd)
 
