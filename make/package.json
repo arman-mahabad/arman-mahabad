@@ -1,0 +1,14 @@
+{
+  "name": "make",
+  "version": "1.0.0",
+  "description": "Draws the pictures in the profile README",
+  "scripts": {
+    "pictures": "node pictures.mjs"
+  },
+  "dependencies": {
+    "fontkit": "^2.0.4",
+    "wawoff2": "^2.0.1"
+  },
+  "private": true,
+  "type": "module"
+}
